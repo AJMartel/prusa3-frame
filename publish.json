@@ -3,7 +3,7 @@
         "id": "thing:1724953",
         "title": "Prusa3 frame (SCAD and DXF)",
         "url": "http://www.thingiverse.com/thing:1724953",
-        "desc": "A replica of one of the Prusa i3 frames, but done entirely in OpenSCAD.",
+        "desc": "A replica of one of the Prusa i3 frames, but done entirely in OpenSCAD. Can also be found at https://github.com/blamh/prusa3-frame",
         "tags": ["prusa_i3", "prusa_i3_rework", "openscad"],
         "category": "3D Printing/3D Printer Parts",
         "customizer": false,
@@ -15,7 +15,7 @@
         "id": "prusa3-frame-scad-and-dxf",
         "title": "Prusa3 frame (SCAD and DXF)",
         "url": "https://www.youmagine.com/designs/prusa3-frame-scad-and-dxf",
-        "short_desc": "A replica of one of the Prusa i3 frames, but done entirely in OpenSCAD.",
+        "short_desc": "A replica of one of the Prusa i3 frames, but done entirely in OpenSCAD. Can also be found at https://github.com/blamh/prusa3-frame",
         "tags": ["prusa i3", "prusa i3 rework", "openscad"],
         "category": "3D printer parts and enhancements",
         "license": "cc-nc-sa"
